@@ -1,2 +1,4 @@
 # GAN
-Apply the GAN to generate the images of faces. It's just a mini project to understand GAN and how to wrok and use it because I work on a big project that used GAN to generate images of toxic insects
+Apply the GAN to generate the images of the toxic insects.
+In fact it's a big project which targets the field of agriculture and aims to make machines that detect toxic insects.
+
